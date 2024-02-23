@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "name": "Ford",
+        "price": 15000,
+        "year": 2015
+    },
+    {
+        "id": 2,
+        "name": "Chevrolet",
+        "price": 20000,
+        "year": 2020,
+        "contact": {
+            "dealer": "Justice Odoyi",
+            "number": "081 6291 1932 "
+        }
+    },
+    {
+        "id": 3,
+        "name": "Toyota",
+        "price": 45000,
+        "year": 2024,
+        "contact": {
+            "dealer": "James Madu",
+            "number": "081 0091 1911 "
+        }
+    },
+    {
+        "id": 4,
+        "name": "Land Rover",
+        "price": 36000,
+        "year": 2019,
+        "contact": {
+            "dealer": "Leslie Ogbonda",
+            "number": "081 2291 1222 "
+        }
+    },
+    {
+        "id": 5,
+        "name": "Nissan",
+        "price": 10000,
+        "year": 2022,
+        "contact": {
+            "dealer": "Gidoen Sekibo",
+            "number": "081 5551 1535 "
+        }
+    }
+]
